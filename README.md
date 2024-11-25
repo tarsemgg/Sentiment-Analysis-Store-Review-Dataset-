@@ -32,7 +32,6 @@ The goal of this project is to develop a machine learning model that predicts wh
 4. **Feature Extraction**: Extract relevant features from the text.
 5. **Model Training**: Train a machine learning model on the preprocessed data.
 6. **Model Evaluation**: Evaluate the model's performance.
-7. **Deployment**: Deploy the model for real-time predictions.
 
 #### Expected Outcomes:
 - A machine learning model that accurately predicts customer satisfaction based on review text.
