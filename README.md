@@ -36,11 +36,5 @@ The goal of this project is to develop a machine learning model that predicts wh
 #### Expected Outcomes:
 - A machine learning model that accurately predicts customer satisfaction based on review text.
 - Insights into customer sentiment that can help businesses improve their products or services.
-- A user-friendly application for real-time sentiment analysis.
-
-#### Future Enhancements:
-- Incorporate additional features like user demographics and product metadata for more accurate predictions.
-- Expand the dataset to include more diverse reviews and products.
-- Implement real-time alert systems for immediate notifications to businesses.
 
 This project aims to provide valuable insights into customer sentiment, helping businesses make data-driven decisions to enhance customer satisfaction and loyalty.
