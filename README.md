@@ -22,9 +22,7 @@ The goal of this project is to develop a machine learning model that predicts wh
 
 #### Technologies:
 - **Programming Languages**: Python
-- **Libraries and Frameworks**: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy
-- **Cloud Services**: AWS, Google Cloud, or Azure for model deployment and hosting
-
+- **Libraries and Frameworks**: Scikit-learn, TensorFlow, Keras, NLTK.
 #### Steps:
 1. **Data Collection**: Gather customer reviews from various sources.
 2. **Data Annotation**: Label the reviews with sentiment (positive or negative).
